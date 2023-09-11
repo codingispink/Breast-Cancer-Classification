@@ -308,5 +308,7 @@ Based on the 2 confusion matrixes of the KNN and decision tree, we can see that 
 
  ### ACKNOWLEDGEMENT
  [1] Classification Lecture, Professor De Liu at the University of Minnesota (IDSC 4444)
+ 
  [2] American Cancer Society, https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
+ 
  [3] Precision vs Recall: Differences, Use Cases and Evaluation: https://www.v7labs.com/blog/precision-vs-recall-guide#:~:text=In%20most%20high%2Drisk%20disease,the%20correctness%20of%20our%20model.
