@@ -39,7 +39,7 @@ data_stand <- data
 data_stand[,2:31] <-apply(data_stand[,2:31], 2, scale)
 ```
 
-Then, randomly split the dataset into training and testing dataset. We will split it into 70% training and 30% testing. To ensure that our random samples are the same, please set the random seed to 131 using set.seed(166) before data partition.
+Then, randomly split the dataset into training and testing dataset. We will split it into 80% training and 20% testing. To ensure that our random samples are the same, please set the random seed to 131 using set.seed(166) before data partition.
 
 ```
 set.seed(166)
