@@ -58,7 +58,7 @@ data_stand_test <- data_stand[-train_rows,]
 #### 2. Train the CNN model:
 We can train the model with function train(function, data, method).
 ```
-fitKNN <- train(Churn.~., data=data_stand_train, method = "knn")
+fitKNN <- train(diagnosis, data=data_stand_train, method = "knn")
 fitKNN
 ```
 The results:
